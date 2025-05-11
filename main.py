@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, Comma
 
 # 🔑 جایگزین کن با اطلاعات خودت:
 TELEGRAM_BOT_TOKEN = "7913959222:AAGwUKUHi04pak3lbNlHASEWuRh3qng3hYk"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # فعال‌سازی لاگ
 logging.basicConfig(
